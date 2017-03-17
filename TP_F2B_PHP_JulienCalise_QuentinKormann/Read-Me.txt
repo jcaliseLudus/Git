@@ -1,0 +1,12 @@
+Pour utiliser le site
+
+Wamp:
+
+-Importer la base de donnée : facturef2b.sql
+-Mettre tous les fichier dans le meme dossier de Wamp.
+-Lancer Wamp
+-Ouvrir un navigateur
+-Taper localhost dans la barre d'adresse
+-Aller dans le dossier ou se trouve tous les fichier
+-(Compte de test :
+			login : pyros / password : pyros)
